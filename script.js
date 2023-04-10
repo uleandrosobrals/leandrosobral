@@ -22,7 +22,10 @@ $(document).ready(function(){
          loop:true
      });
      var typed = new Typed(".typing-2", {
+
         strings:["Backend", "Fullstack"],
+        strings:["Desenvolvedor", "Backend", "Fullstack"],
+
         typeSpeed:100,
         backSpeed:60,
         loop:true
